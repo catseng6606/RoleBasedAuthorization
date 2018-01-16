@@ -14,4 +14,4 @@ Open Web Interface for .NET(OWIN)
 	- [http://marcinjuraszek.com/2014/03/asp-net-identity-2-0-0-username-and-email-separation.html](http://marcinjuraszek.com/2014/03/asp-net-identity-2-0-0-username-and-email-separation.html)
 
 ASP.NET Identity Recommended Resources
-- http://www.asp.net/identity/overview/getting-started/aspnet-identity-recommended-resources
+- [http://www.asp.net/identity/overview/getting-started/aspnet-identity-recommended-resources](http://www.asp.net/identity/overview/getting-started/aspnet-identity-recommended-resources)
